@@ -4,3 +4,5 @@ namespace: flux-system
 resources:
   - bitnami.yaml
   - podinfo.yaml
+  - s3-controller.yaml
+
